@@ -39,21 +39,8 @@ searchButton.addEventListener('click', function () {
     });
    });
 
-
-
-
-
   });
 });
-
-
-
-
-
-
-
-
-
 
 
 
